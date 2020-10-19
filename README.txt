@@ -1,4 +1,4 @@
-﻿## Author : YOU
+
 ## Date: 27th May 2020
 
 ## Setup and installation for TPGAN
